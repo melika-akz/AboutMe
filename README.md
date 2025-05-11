@@ -4,7 +4,7 @@
 <h3 align="center">A passionate python lover</h3>
 
 # Tools & Skills 💻
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,postgres,rabbitmq,redis,django,bash,discord,docker,kubernetes,git,github,githubactions,gitlab,linux,md,mysql,nginx,postman,pycharm,sqlite,ubuntu,vim,vscode,regex,windows,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,postgres,rabbitmq,redis,django,bash,discord,docker,kubernetes,git,github,gitlab,mysql,nginx,postman,pycharm,sqlite,ubuntu,vim,celery&theme=dark)](https://skillicons.dev)
 
 And more...
 
